@@ -15,3 +15,5 @@
 # Taksk | Задачи
 ## Image Interpolation | Интерполяция изображения
 ### Nearest Neighbor Interpolation | Интерполяция по ближайшему соседу
+#### 1-D interpolation | Одномерная интерполяция
+#### 2-D interpolation | Двумерная интерполяция
