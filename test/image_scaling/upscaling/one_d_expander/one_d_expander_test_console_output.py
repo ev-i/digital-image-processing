@@ -4,7 +4,7 @@ from src.image_scaling.upscaling.one_d_expander.one_d_expander import one_d_expa
 
 
 original = [0, 50, 100, 150, 200, 250]
-scale_factor = 4
+scale_factor = 3
 
 print(original)
 print(one_d_expander(original, scale_factor))
